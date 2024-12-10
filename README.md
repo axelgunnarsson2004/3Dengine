@@ -23,9 +23,5 @@ Navigate to the project directory and run:
 
 ```bash
 scala run . --jar introprog_3-1.3.0.jar --main-class=run
-=======
-# Scala 3D Engine
-A simple 3D renderer based on a introprog package.
-## Usage 
-scala . --jar introprog_3-1.3.0.jar --main-class=run 
->>>>>>> 88add45b7af24826b56e409bf26ffc0bfc856deb
+```
+
