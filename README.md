@@ -11,7 +11,7 @@ This project implements a simple 3D engine that can draw 3D-like objects by leve
 
 ## Setup
 
-1. Ensure you have **Scala** and **sbt** (Scala Build Tool) installed on your system.
+1. Ensure you have **Scala**
 
 2. Place the `introprog_3-1.3.0.jar` file in your project directory or adjust the classpath to point to it.
 
