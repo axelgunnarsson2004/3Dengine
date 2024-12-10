@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simple 3D Engine
 
 This project implements a simple 3D engine that can draw 3D-like objects by leveraging the ability to draw a line between two 2D points on the screen. The engine is based on the `introprog` package and demonstrates basic concepts of 3D rendering using simple 2D projections.
